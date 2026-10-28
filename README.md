@@ -54,8 +54,8 @@ pkg install nodejs git
 
 Clone the official GitHub repository:
 ```bash
-git clone https://github.com/masterweb801/Mobs Jukebox.git
-cd Mobs Jukebox
+git clone https://github.com/masterweb801/Mobs-Jukebox.git
+cd Mobs-Jukebox
 ```
 
 ### Step 2: Install Dependencies
