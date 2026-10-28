@@ -1,16 +1,10 @@
 {
-  "name": "audio-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "ws": "^8.22.0"
-  }
+  "name": "mobs-jukebox",
+  "version": "2.0.0",
+  "private": true,
+  "description": "LAN multi-device synchronized MP3 jukebox",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
 }
